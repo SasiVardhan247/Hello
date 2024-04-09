@@ -1,3 +1,3 @@
-def Sasi:
+def Sasi():
   print("Hello Sasi")
 
